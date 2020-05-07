@@ -1,3 +1,4 @@
+#new version
 import pyodbc
 server = 'DLAP-0064'
 database = 'QUAN_LY_KHACH_HANG'
