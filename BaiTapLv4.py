@@ -1,3 +1,4 @@
+#new version 46622
 class KhachHang:
     _maKH = ""
     _tenKH = ""
